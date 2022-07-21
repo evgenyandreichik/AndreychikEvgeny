@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'RocknRollOne-Regular';
+  src: url('RocknRollOne-Regular.eot');
+  src: url('RocknRollOne-Regular.eot?#iefix') format('embedded-opentype'),
+       url('RocknRollOne-Regular.svg#RocknRollOne-Regular') format('svg'),
+       url('RocknRollOne-Regular.ttf') format('truetype'),
+       url('RocknRollOne-Regular.woff') format('woff'),
+       url('RocknRollOne-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
